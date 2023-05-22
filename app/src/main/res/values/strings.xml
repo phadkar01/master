@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="news_content">
+        NEW DELHI: The State Bank of India (SSI) on Sunday clarified that the facility of
+        exchange of Rs 2,000 denomination notes up to a limit of Rs 20,000 at a time will
+        be allowed without obtaining any requisition slip.
+
+        It added that no identity proof will be required at the time of exchange either.
+        The clarification seeks to quell doubts about the need for any form or slip at the
+        time of exchanging or depositing Rs 2,000 notes by customers.
+
+        The Reserve Bank of India (RBI) on Friday announced the withdrawal of Rs 2,000
+        currency notes from circulation.
+
+        It said that existing notes in circulation can either be deposited in bank accounts
+        or exchanges by September 30
+
+        The bank notes in Rs 2,000 denomination will continue to be a legal tender, the
+        RBI said in a statement.
+
+        In order to ensure operational convenience and to avoid disruption of regular
+        activities of bank branches, the RBI said exchange of Rs 2,000 bank notes into
+        bank notes of other denominations can be made up to a limit of Rs 20,000 at a
+        time at any bank starting from May 23, 2023.
+    </string>
+</resources>
